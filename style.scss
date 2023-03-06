@@ -1,0 +1,12 @@
+$color-bg:darkblue;
+$color-text:white;
+
+body{
+    background-color: $color-bg;
+
+    h1{
+        color: $color-text;
+        font-size: 18px;
+        padding: 10px;
+    }
+}
